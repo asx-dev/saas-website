@@ -3,7 +3,6 @@
 This project is a modern, responsive SaaS website designed to showcase a software-as-a-service product. Built with clean HTML and CSS, it features a mobile-friendly navigation menu powered by JavaScript, along with embedded media and CDN-based assets for optimized performance.
 
 ![screenshot](/images/screenshot-1.png)
-
 ![screenshot](/images/screenshot-2.png)
 
 ## 🚀 Features
